@@ -2,10 +2,10 @@
 import { AnimatePresence, motion } from "framer-motion";
 import Image from "next/image";
 import { useEffect, useState } from "react";
-import one1 from "../../images/slider/20240206012522252244882.webp";
-import one4 from "../../images/slider/8325507.jpg";
-import one3 from "../../images/slider/9707789.jpg";
-import one2 from "../../images/slider/minimalist-mens-fashion-beige-shirt-and-trousers.webp";
+import one1 from "../../../public/images/slider/20240206012522252244882.webp";
+import one4 from "../../../public/images/slider/8325507.jpg";
+import one3 from "../../../public/images/slider/9707789.jpg";
+import one2 from "../../../public/images/slider/minimalist-mens-fashion-beige-shirt-and-trousers.webp";
 
 const images = [one1, one2, one3, one4];
 

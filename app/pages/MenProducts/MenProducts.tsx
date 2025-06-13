@@ -1,7 +1,8 @@
 "use client";
 import React from "react";
 import ProductCard from "../ProductCard/ProductCard";
-import img from "../../images/slider/9707789.jpg";
+// import img from "../../images/slider/9707789.jpg";
+import img from "../../../public/images/slider/9707789.jpg";
 import { useAppContext } from "../context/Context";
 
 const products = Array.from({ length: 10 }).map((_, i) => ({

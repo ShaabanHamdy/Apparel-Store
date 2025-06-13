@@ -1,10 +1,10 @@
 import Image from "next/image";
 import { IoMdArrowDropdown } from "react-icons/io";
-import EG_flag from "../../images/EG_flag.webp";
-import EN_flag from "../../images/EN_Flag.webp";
-import sar_currency from "../../images/sar_currency.webp";
-import uae_currency from "../../images/uae_currency.webp";
-import us_currency from "../../images/us_currency.webp";
+import EG_flag from "../../../public/images/EG_flag.webp";
+import EN_flag from "../../../public/images/EN_Flag.webp";
+import sar_currency from "../../../public/images/sar_currency.webp";
+import uae_currency from "../../../public/images/uae_currency.webp";
+import us_currency from "../../../public/images/us_currency.webp";
 import { useAppContext } from "../context/Context";
 
 const LangAndCrr = () => {
